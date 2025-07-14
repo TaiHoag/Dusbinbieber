@@ -1,5 +1,7 @@
 # DUSBINBIEBER: Smart Dustbin Image Classification
 
+![Alt text](src\iot.png "Dusbinbieber")
+
 This repository contains two Arduino sketches for an ESP32-CAM based IoT project:
 
 1. **Collect_Images_for_EdgeImpulse**  
